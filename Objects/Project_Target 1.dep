@@ -1,0 +1,51 @@
+Dependencies for Project 'Project', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6180000::V6.18::ARMCLANG
+F (.\COTS\MCAL\MGPIO\MGPIO_Program.c)(0x637F90CD)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./COTS/LIB -I ./COTS/MCAL/MGPIO -I ./COTS/MCAL/MINT -I ./COTS/MCAL/MSYSCLK -I ./COTS/MCAL/MSYSTICK -I ./COTS/HAL/HLED -I ./COTS/HAL/HSWITCH-I./RTE/_Target_1-IC:/Users/tarek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/tarek/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/mgpio_program.o -MD)
+I (COTS\LIB\LSTD_TYPES.h)(0x636DAEC6)
+I (COTS\MCAL\MGPIO\MGPIO_private.h)(0x637F8839)
+I (COTS\MCAL\MGPIO\MGPIO_cfg.h)(0x637196EC)
+I (COTS\MCAL\MGPIO\MGPIO_interface.h)(0x637F9140)
+F (.\COTS\MCAL\MINT\MINT_Program.c)(0x637F85F2)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./COTS/LIB -I ./COTS/MCAL/MGPIO -I ./COTS/MCAL/MINT -I ./COTS/MCAL/MSYSCLK -I ./COTS/MCAL/MSYSTICK -I ./COTS/HAL/HLED -I ./COTS/HAL/HSWITCH-I./RTE/_Target_1-IC:/Users/tarek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/tarek/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/mint_program.o -MD)
+I (COTS\LIB\LSTD_TYPES.h)(0x636DAEC6)
+I (COTS\MCAL\MINT\MINT_private.h)(0x637191DC)
+I (COTS\MCAL\MINT\MINT_cfg.h)(0x6372DE0E)
+I (COTS\MCAL\MINT\MINT_interface.h)(0x637EDF83)
+F (.\COTS\MCAL\MSYSCLK\MSYSCLK_Program.c)(0x6376CDF6)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./COTS/LIB -I ./COTS/MCAL/MGPIO -I ./COTS/MCAL/MINT -I ./COTS/MCAL/MSYSCLK -I ./COTS/MCAL/MSYSTICK -I ./COTS/HAL/HLED -I ./COTS/HAL/HSWITCH-I./RTE/_Target_1-IC:/Users/tarek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/tarek/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/msysclk_program.o -MD)
+I (COTS\LIB\LSTD_TYPES.h)(0x636DAEC6)
+I (COTS\LIB\LBIT_MATH.h)(0x636DA0B9)
+I (COTS\MCAL\MSYSCLK\MSYSCLK_private.h)(0x6376CED9)
+I (COTS\MCAL\MSYSCLK\MSYSCLK_interface.h)(0x6371948C)
+F (.\COTS\MCAL\MSYSTICK\MSYSTICK_Program.c)(0x637E74B9)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./COTS/LIB -I ./COTS/MCAL/MGPIO -I ./COTS/MCAL/MINT -I ./COTS/MCAL/MSYSCLK -I ./COTS/MCAL/MSYSTICK -I ./COTS/HAL/HLED -I ./COTS/HAL/HSWITCH-I./RTE/_Target_1-IC:/Users/tarek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/tarek/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/msystick_program.o -MD)
+I (COTS\LIB\LSTD_TYPES.h)(0x636DAEC6)
+I (COTS\LIB\LBIT_MATH.h)(0x636DA0B9)
+I (COTS\MCAL\MSYSTICK\MSYSTICK_private.h)(0x637170C1)
+I (COTS\MCAL\MSYSTICK\MSYSTICK_cfg.h)(0x6377DDC5)
+I (COTS\MCAL\MSYSTICK\MSYSTICK_interface.h)(0x6371859A)
+F (.\COTS\APP\APP_LedBlink.c)(0x637F9219)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./COTS/LIB -I ./COTS/MCAL/MGPIO -I ./COTS/MCAL/MINT -I ./COTS/MCAL/MSYSCLK -I ./COTS/MCAL/MSYSTICK -I ./COTS/HAL/HLED -I ./COTS/HAL/HSWITCH-I./RTE/_Target_1-IC:/Users/tarek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/tarek/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/app_ledblink.o -MD)
+I (COTS\LIB\LSTD_TYPES.h)(0x636DAEC6)
+I (COTS\MCAL\MSYSCLK\MSYSCLK_interface.h)(0x6371948C)
+I (COTS\MCAL\MSYSTICK\MSYSTICK_interface.h)(0x6371859A)
+I (COTS\MCAL\MINT\MINT_interface.h)(0x637EDF83)
+I (COTS\MCAL\MGPIO\MGPIO_interface.h)(0x637F9140)
+I (COTS\HAL\HLED\HLED_interface.h)(0x637EC660)
+I (COTS\HAL\HSWITCH\HSWITCH_interface.h)(0x637EC8EC)
+F (.\COTS\HAL\HLED\HLED_Program.c)(0x637EC6CD)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./COTS/LIB -I ./COTS/MCAL/MGPIO -I ./COTS/MCAL/MINT -I ./COTS/MCAL/MSYSCLK -I ./COTS/MCAL/MSYSTICK -I ./COTS/HAL/HLED -I ./COTS/HAL/HSWITCH-I./RTE/_Target_1-IC:/Users/tarek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/tarek/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/hled_program.o -MD)
+I (COTS\LIB\LSTD_TYPES.h)(0x636DAEC6)
+I (COTS\MCAL\MGPIO\MGPIO_interface.h)(0x637F9140)
+I (COTS\HAL\HLED\HLED_interface.h)(0x637EC660)
+I (COTS\HAL\HLED\HLED_cfg.h)(0x637A7759)
+F (.\COTS\HAL\HSWITCH\HSWITCH_Program.c)(0x637EC8C4)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./COTS/LIB -I ./COTS/MCAL/MGPIO -I ./COTS/MCAL/MINT -I ./COTS/MCAL/MSYSCLK -I ./COTS/MCAL/MSYSTICK -I ./COTS/HAL/HLED -I ./COTS/HAL/HSWITCH-I./RTE/_Target_1-IC:/Users/tarek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/tarek/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/hswitch_program.o -MD)
+I (COTS\LIB\LSTD_TYPES.h)(0x636DAEC6)
+I (COTS\MCAL\MGPIO\MGPIO_interface.h)(0x637F9140)
+I (COTS\HAL\HSWITCH\HSWITCH_interface.h)(0x637EC8EC)
+F (RTE/Device/TM4C123GH6PM/startup_TM4C123.s)(0x51B6E406)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/_Target_1-IC:/Users/tarek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/tarek/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-Wa,armasm,--pd,"__UVISION_VERSION SETA 537" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"TM4C123GH6PM SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_tm4c123.o)
+F (RTE/Device/TM4C123GH6PM/system_TM4C123.c)(0x6376F075)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./COTS/LIB -I ./COTS/MCAL/MGPIO -I ./COTS/MCAL/MINT -I ./COTS/MCAL/MSYSCLK -I ./COTS/MCAL/MSYSTICK -I ./COTS/HAL/HLED -I ./COTS/HAL/HSWITCH-I./RTE/_Target_1-IC:/Users/tarek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/tarek/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="537" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/system_tm4c123.o -MD)
+I (C:\Keil_5_37\ARM\ARMCLANG\include\stdint.h)(0x6252B538)
+I (C:\Users\tarek\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\tarek\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\tarek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F9F3E)
+I (C:\Users\tarek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F9F3E)
+I (C:\Users\tarek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F9F3E)
+I (C:\Users\tarek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F9F3E)
+I (C:\Users\tarek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F9F3E)
+I (C:\Users\tarek\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
